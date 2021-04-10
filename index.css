@@ -8,7 +8,8 @@ body {
 .header {
   background-image: url('https://hillyfieldsharriers.github.io/website/HillyFieldsHarriers.jpg');
   height: 150px;
-  background-position: center;
+  background-position: center;  
+  background-repeat: no-repeat;
 }
 
 .hfh {
