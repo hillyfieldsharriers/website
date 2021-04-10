@@ -6,43 +6,41 @@ body {
 
 /** Header styles **/
 .header {
-  background-image: url('https://hillyfieldsharriers.github.io/website/Logo_Full.jpg');
-  height: 300px;
-  background-position: center center;
+  background-image: url('https://hillyfieldsharriers.github.io/website/HillyFieldsHarriers.jpg');
+  height: 150px;
+  background-position: center;
 }
 
 .hfh {
-  margin: 40px auto;
+  margin: 10px auto;
   padding: 10px 10px 10px 10px;
   background-color: white;
   overflow: auto;
-  width: 75%;
+  width: 40%;
   border-radius: 4px;
   align-self: center;
 }
 
 .hfh p {
-  color: #3f3f3f;
+  color: #2d4061;
   text-align: center;
   line-height: 24px;
   font-family: 'Raleway', sans-serif;
   font-size: 20px;
   font-weight: 400;
-  padding-bottom: 0%;
-  padding-top: 0%;
 }
 
 .fpimage {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 40%;
+  width: 25%;
   padding-bottom: 0%;
   padding-top: 0%;
 }
 
 h1 {
-  color: #3f3f3f;
+  color: #2d4061;
   font-family: 'Raleway', sans-serif;
   font-size: 100px;
   line-height: 76px;
@@ -53,7 +51,7 @@ h1 {
 }
 
 h2 {
-  color: #3f3f3f;
+  color: #2d4061;
   font-family: 'Raleway', sans-serif;
   font-size: 24px;
   font-weight: 500;
@@ -62,7 +60,7 @@ h2 {
 }
 
 h3 {
-  color: #3f3f3f;
+  color: #2d4061;
   font-family: 'Raleway', sans-serif;
   font-size: 24px;
   font-weight: 500;
@@ -90,7 +88,7 @@ ul {
 }
 
 li {
-  border-bottom: 1px solid #3f3f3f;
+  border-bottom: 1px solid#2d4061;
   list-style: none;
   margin: 10px 0px;
   padding-bottom: 0%;
@@ -98,7 +96,7 @@ li {
 }
 
 p {
-  color: #3f3f3f;
+  color: #2d4061;
   line-height: 32px;
   font-family: 'Raleway', sans-serif;
   font-size: 20px;
@@ -107,7 +105,7 @@ p {
 
 footer {
   text-align: center;
-  color: #3f3f3f;
+  color: #2d4061;
   line-height: 32px;
   font-family: 'Raleway', sans-serif;
   font-size: 20px;
@@ -115,7 +113,7 @@ footer {
 }
 
 .navbar {
-  background-color: #3f3f3f;
+  background-color: #2d4061;
   overflow: hidden;
   position: fixed;
   bottom: 0;
@@ -133,7 +131,7 @@ footer {
 }
 
 .navbar a:hover {
-  background-color: rgb(35, 64, 140);
+  background-color: rgb(113, 128, 163);
   color: white;
 }
 
