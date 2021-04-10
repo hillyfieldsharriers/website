@@ -5,11 +5,11 @@ body {
 }
 
 /** Header styles **/
-.header {
+/*.header {
   background-image: url('../images/HillyFieldsHarriers.jpeg');
   height: 300px;
   background-position: center center;
-}
+}*/
 
 .hfh {
   margin: 40px auto;
