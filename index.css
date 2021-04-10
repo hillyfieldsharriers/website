@@ -6,7 +6,7 @@ body {
 
 /** Header styles **/
 .header {
-  background-image: url('https://github.com/hillyfieldsharriers/website/blob/gh-pages/HillyFieldsHarriers.jpeg');
+  background-image: url('https://hillyfieldsharriers.github.io/website/HillyFieldsHarriers.jpeg');
   height: 300px;
   background-position: center center;
 }
